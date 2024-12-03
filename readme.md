@@ -8,11 +8,11 @@ Welcome to my **Advent of Code** repository! 💖 Here you'll find my adventures
 ## My Progress 🐾
 I'll be posting my solutions here day-by-day (or, well, whenever I manage to solve them 🐱‍💻). My goal isn't always about finishing the fastest, but learning, experimenting, and having fun while I grow as a developer. Feel free to browse my solutions or suggest ideas!
 
-| Day | Status         | Languages Used |
-|-----|----------------|----------------|
-| 1   | 🎁 Completed   | TypeScript     |
-| 2   | ⏰ In Progress  | TypeScript     |
-| 3   | 🎁 Completed   | TypeScript     |
+| Day | Status        | Languages Used |
+|-----|---------------|----------------|
+| 1   | 🎁 Completed  | TypeScript     |
+| 2   | 🎁 Completed  | TypeScript     |
+| 3   | 🎁 Completed  | TypeScript     |
 
 
 I'll try my best to complete as many as I can, but sometimes life (or naps with my plushies) takes priority. 💤
